@@ -1,3 +1,1 @@
-print("Hello Word!")
-print("Nuriddinov Odiljon")
-print("This is my firs program")
+print("Ertaga Farnsiya va Angliya o'rtasida futbol o'yini bo'ladi")
